@@ -1,2 +1,2 @@
 # 25_BSc_Repo_Yousef_Abdelmegeed
-Visual SLAM for autonomous vehicles, using camera and LiDAR for real-time localization and mapping.
+My bachelor project on Visual SLAM, a key research project utilizing camera and LiDAR for real-time localization and mapping in autonomous vehicles.
